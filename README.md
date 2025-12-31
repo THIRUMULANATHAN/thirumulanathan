@@ -13,7 +13,8 @@
 - Passionate about backend engineering + clean scalable systems  
 - Currently building **ATS – Assessment & Test Management System**  
 - Learning **System Design**, **Docker**, **Advanced React**  
-- An Electrical and Electronics Engineer passionate in tech
+- An Electrical and Electronics Engineer passionate in tech  
+
 ---
 
 ## 📫 Reach Me
@@ -49,3 +50,15 @@
 
 ---
 
+## 🏅 Certifications & Badges
+
+<p align="left">
+  <a href="https://www.credly.com/badges/4d97541b-9754-48d0-9014-2f8f75337900/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/8c6b38d6-32b6-4b4d-b90f-d9a2f7c9b50d/python-essentials-1.png" width="160"/>
+  </a>
+</p>
+
+**Python Essentials 1 – Cisco Networking Academy**  
+*Issued: December 2025 | Verified via Credly*
+
+---
