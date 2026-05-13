@@ -17,8 +17,7 @@
 
 ---
 
-## 📫 Reach Me
-- **Email:** thirumulanathan2005v@gmail.com  
+## 📫 Reach Me 
 - **LinkedIn:** [View Profile](https://www.linkedin.com/in/thirumulanathan/)  
 - **LeetCode:** [View Profile](https://leetcode.com/u/thirumulanathan-v/)  
 - **HackerRank:** [View Profile](https://www.hackerrank.com/profile/thirumulanathan)  
